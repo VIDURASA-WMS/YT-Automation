@@ -9,3 +9,5 @@ assets/images/*
 *.wav
 *.mp4
 .env
+
+!assets/images/.gitkeep
